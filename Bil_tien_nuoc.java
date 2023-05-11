@@ -99,7 +99,7 @@ class list_bill
         arr=new Bil_tien_nuoc[n];
         for(int i=0;i<arr.length;i++)
         {
-            System.out.println("nhap thong tin khach hang thu "+i);
+            System.out.println("nhap thong tin khach hang thu -----p-"+i);
             arr[i]=new Bil_tien_nuoc();
             arr[i].input();
         }
