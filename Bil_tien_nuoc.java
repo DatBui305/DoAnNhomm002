@@ -79,7 +79,7 @@ void output()
     System.out.println("ma khach hang la: "+ma_khach_hang);
     System.out.println("so nuoc cu la: "+so_nuoc_cu);
     System.out.println("so nuoc moi la: "+so_nuoc_moi);
-    System.out.println("don gia cua khach hang la: "+price());
+    System.out.println("don gia cua khach hang la : "+price());
     System.out.println("khach hang phai thanh toan: "+payment());
 }
     
